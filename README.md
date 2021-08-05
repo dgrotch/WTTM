@@ -23,6 +23,7 @@ This is a place for all articles, podcasts, and files that come our way.
 ### Players
 - [Qatar](https://github.com/dgrotch/WTTM/blob/main/Qatar.pdf)
 - [Russia and Putin's Rise](https://www.youtube.com/watch?v=oLNKqbwec0s)
+- [Putin Interviews by Oliver Stone](https://www.hulu.com/series/53dc0a46-15c8-469f-b38b-eed3d97fcb41)
 
 
 
