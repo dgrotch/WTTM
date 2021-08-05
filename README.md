@@ -22,6 +22,7 @@ This is a place for all articles, podcasts, and files that come our way.
 
 ### Players
 - [Qatar](https://github.com/dgrotch/WTTM/blob/main/Qatar.pdf)
+- [Russia and Putin's Rise](https://www.youtube.com/watch?v=oLNKqbwec0s)
 
 
 
